@@ -1,0 +1,8 @@
+Surveyed locations of vessel's instrumentation
+Point	X	Y	Z
+Reference Point (RP)	0.0	0.0	0.0 (1.310 m above water line)
+33 kHz Transducer	7.670	-3.240	3.420
+200 kHz Transducer	5.140	-3.240	3.560
+EM710 Tx Transducer	6.904	-3.158	3.477
+EM710 Rx Transducer	5.990	-3.240	3.554
+Starpack antenna	-5.220	-0.139	-6.629
